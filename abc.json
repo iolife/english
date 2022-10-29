@@ -1,1 +1,927 @@
-[{"english":"I'm starving"},{"english":"I'm full"},{"english":"I'm fool"},{"english":"I'm stuffed"},{"english":"I'm thirsty"},{"english":"I'm sleepy"},{"english":"I'm sober"},{"english":"I'm exhausted"},{"english":"I'm energetic"},{"english":"I'm running out of energy"},{"english":"I'm running out of time"},{"english":"I'm running out of money"},{"english":"I'm running out of gas"},{"english":"You look energetic"},{"english":"You piss me off"},{"english":"Don't piss me off"},{"english":"Who did I piss off"},{"english":"I'm pissed off"}]
+[
+    {
+        "english": "I'm starving",
+        "chinese": "我饿了"
+    },
+    {
+        "english": "I'm full",
+        "chinese": "我饱了"
+    },
+    {
+        "english": "I'm fool",
+        "chinese": "我是笨蛋"
+    },
+    {
+        "english": "I'm stuffed",
+        "chinese": "我吃撑了"
+    },
+    {
+        "english": "I'm thirsty",
+        "chinese": "了"
+    },
+    {
+        "english": "I'm sleepy",
+        "chinese": "我困了"
+    },
+    {
+        "english": "I'm sober",
+        "chinese": "我很清醒"
+    },
+    {
+        "english": "I'm exhausted",
+        "chinese": "我累了"
+    },
+    {
+        "english": "I'm energetic",
+        "chinese": "我精神很好"
+    },
+    {
+        "english": "I'm running out of energy",
+        "chinese": "我累的筋疲力尽了"
+    },
+    {
+        "english": "I'm running out of time",
+        "chinese": "我快没时间了"
+    },
+    {
+        "english": "I'm running out of money",
+        "chinese": "我快没钱了"
+    },
+    {
+        "english": "I'm running out of gas",
+        "chinese": "我车快没油了"
+    },
+    {
+        "english": "You look energetic",
+        "chinese": "你看上去精神很好"
+    },
+    {
+        "english": "You piss me off",
+        "chinese": "你气死我了"
+    },
+    {
+        "english": "Don't piss me off",
+        "chinese": "不要惹毛了"
+    },
+    {
+        "english": "Who did I piss off",
+        "chinese": "我招谁惹谁了"
+    },
+    {
+        "english": "I'm pissed off",
+        "chinese": "我气死了"
+    },
+    {
+        "english": "I'm easy to please(讨好)",
+        "chinese": "我很容易满足"
+    },
+    {
+        "english": "What do you want to eat?",
+        "chinese": "你什么？"
+    },
+    {
+        "english": "You decide. I'm easy to please",
+        "chinese": "你决定我很容易满足"
+    },
+    {
+        "english": "She is hard to please",
+        "chinese": "她很难满足"
+    },
+    {
+        "english": "I mean it",
+        "chinese": "我是认真的"
+    },
+    {
+        "english": "I hope so",
+        "chinese": "希望如此吧"
+    },
+    {
+        "english": "I hope not",
+        "chinese": "希望不会吧"
+    },
+    {
+        "english": "Don't worry. Everything will be okay"
+    },
+    {
+        "english": "I hope so"
+    },
+    {
+        "english": "I give you my word"
+    },
+    {
+        "english": "I will buy you a coffee next time. I give you my word"
+    },
+    {
+        "english": "I will buy you a dinner"
+    },
+    {
+        "english": "I will buy you a gift"
+    },
+    {
+        "english": "I need to use the bathroom"
+    },
+    {
+        "english": " "
+    },
+    {
+        "english": "Get off me"
+    },
+    {
+        "english": "Get off my bed"
+    },
+    {
+        "english": "Get off my back"
+    },
+    {
+        "english": "Don't ask for trouble"
+    },
+    {
+        "english": "I don't want to trouble you"
+    },
+    {
+        "english": "Give me a break"
+    },
+    {
+        "english": "This is destiny"
+    },
+    {
+        "english": "I don't want to be the third wheel"
+    },
+    {
+        "english": " "
+    },
+    {
+        "english": "If you were a tear in my eye, I wouldn't cry for the fear or losing you"
+    },
+    {
+        "english": "6"
+    },
+    {
+        "english": "I'll be right back"
+    },
+    {
+        "english": "I will"
+    },
+    {
+        "english": "Where are you doing ?"
+    },
+    {
+        "english": "I need to get some water. I'll be right back."
+    },
+    {
+        "english": "I need to use the bathroom. I'll be right back."
+    },
+    {
+        "english": "I can't stand you"
+    },
+    {
+        "english": "Hurry up! Oh my god, you are so slow! I can't stand you"
+    },
+    {
+        "english": "I can't stand hot weather"
+    },
+    {
+        "english": "I don't know what to say"
+    },
+    {
+        "english": "I don't know what to do"
+    },
+    {
+        "english": "\t\t\tBuy"
+    },
+    {
+        "english": "\t\t\tEat"
+    },
+    {
+        "english": "I'll take care of it"
+    },
+    {
+        "english": "Take care of 把什么照看好"
+    },
+    {
+        "english": "I'll take care of the dragon"
+    },
+    {
+        "english": "Don't worry! I'll take care of it"
+    },
+    {
+        "english": "Take good care of yourself"
+    },
+    {
+        "english": "I'm crazy about English"
+    },
+    {
+        "english": "I'm crazy about her"
+    },
+    {
+        "english": "I'm crazy about cars"
+    },
+    {
+        "english": " "
+    },
+    {
+        "english": "I'll get it"
+    },
+    {
+        "english": "The phone is ringing"
+    },
+    {
+        "english": "I'll get it"
+    },
+    {
+        "english": "I'll do my best"
+    },
+    {
+        "english": "I can't promise. But i'll do my best"
+    },
+    {
+        "english": "I did my best"
+    },
+    {
+        "english": "I envy you"
+    },
+    {
+        "english": "I wasn't born yesterday"
+    },
+    {
+        "english": "Don't fool me! I wasn't born yesterday"
+    },
+    {
+        "english": "I feeling under the weather"
+    },
+    {
+        "english": "You don't look good. Are you okay?"
+    },
+    {
+        "english": "Nothing. Just a little under the weather."
+    },
+    {
+        "english": " "
+    },
+    {
+        "english": "There is no such thing as a free lunch!"
+    },
+    {
+        "english": "You can't get something for nothing"
+    },
+    {
+        "english": " "
+    },
+    {
+        "english": "7"
+    },
+    {
+        "english": "Let's  start to learn the first sentence for today"
+    },
+    {
+        "english": "Don't be mad"
+    },
+    {
+        "english": "Are you mad at me?"
+    },
+    {
+        "english": "No , i'm mad at myself"
+    },
+    {
+        "english": "Don't be mad! It's not worth it"
+    },
+    {
+        "english": "It's not worth the price"
+    },
+    {
+        "english": "It's worth the price"
+    },
+    {
+        "english": "Don't bother me!"
+    },
+    {
+        "english": "Sorry to bother you!"
+    },
+    {
+        "english": "Should we go back?"
+    },
+    {
+        "english": "Don't bother"
+    },
+    {
+        "english": "Don't be late!"
+    },
+    {
+        "english": "Don't be afraid"
+    },
+    {
+        "english": "Don't let me down"
+    },
+    {
+        "english": "I'm counting on you"
+    },
+    {
+        "english": "You can count on me"
+    },
+    {
+        "english": "Don't laugh at me"
+    },
+    {
+        "english": "I'm satisfied"
+    },
+    {
+        "english": "I'm satisfied with your service"
+    },
+    {
+        "english": "I'm satisfied with your work"
+    },
+    {
+        "english": "I'm excited"
+    },
+    {
+        "english": "I'm disappointed"
+    },
+    {
+        "english": "I'm disappointed in you"
+    },
+    {
+        "english": "I'm curious"
+    },
+    {
+        "english": "How did you do that?"
+    },
+    {
+        "english": "I'm curious"
+    },
+    {
+        "english": "I'm curious about + "
+    },
+    {
+        "english": "I'm curious about that box"
+    },
+    {
+        "english": "I'm depressed"
+    },
+    {
+        "english": "8"
+    },
+    {
+        "english": "I totally forget"
+    },
+    {
+        "english": "I totally understand"
+    },
+    {
+        "english": "It's totally worth it"
+    },
+    {
+        "english": "I'm dying to see you"
+    },
+    {
+        "english": "I'm dying to speak fluent english"
+    },
+    {
+        "english": "I'm fed up with my boss"
+    },
+    {
+        "english": "I'm fed up with this"
+    },
+    {
+        "english": "I'm fed up with you"
+    },
+    {
+        "english": "I'm sick and tired of noodles"
+    },
+    {
+        "english": "I'm sick and tired of hotpot"
+    },
+    {
+        "english": "I'm sick and tired of going to work everyday"
+    },
+    {
+        "english": "\t\t\tStaying at home"
+    },
+    {
+        "english": "I feel the same way"
+    },
+    {
+        "english": " "
+    },
+    {
+        "english": "It's on me"
+    },
+    {
+        "english": "Dinner is on me"
+    },
+    {
+        "english": "Coffee is on me and the movie is on you"
+    },
+    {
+        "english": "It's on the house"
+    },
+    {
+        "english": "Let's go Dutch"
+    },
+    {
+        "english": "Let's go fifty-fifty"
+    },
+    {
+        "english": "It's a bargain"
+    },
+    {
+        "english": "It's awesome"
+    },
+    {
+        "english": "You are awesome"
+    },
+    {
+        "english": "It's annoying"
+    },
+    {
+        "english": "I'm up to my ears at work day"
+    },
+    {
+        "english": " "
+    },
+    {
+        "english": "9"
+    },
+    {
+        "english": "It's complicated"
+    },
+    {
+        "english": "What happened?"
+    },
+    {
+        "english": "It's complicated"
+    },
+    {
+        "english": "It's simple"
+    },
+    {
+        "english": "I'm a simple person"
+    },
+    {
+        "english": "I want a simple life"
+    },
+    {
+        "english": "What do you want to eat?"
+    },
+    {
+        "english": "I just want some simple food"
+    },
+    {
+        "english": "It's necessary"
+    },
+    {
+        "english": "It's necessary to learn English"
+    },
+    {
+        "english": "It's unnecessary"
+    },
+    {
+        "english": "It's useful"
+    },
+    {
+        "english": "It's useless"
+    },
+    {
+        "english": "Is this useful?"
+    },
+    {
+        "english": "No, it's useless. You can throw it away"
+    },
+    {
+        "english": "Throw it away"
+    },
+    {
+        "english": "It's true"
+    },
+    {
+        "english": "It's not true. Don't believe it"
+    },
+    {
+        "english": "It's very kind of you"
+    },
+    {
+        "english": "It depends"
+    },
+    {
+        "english": "It depends on …"
+    },
+    {
+        "english": "It depends on the weather"
+    },
+    {
+        "english": "It depends on my mood"
+    },
+    {
+        "english": "It depends on your attitude"
+    },
+    {
+        "english": "I'm in a good mood today"
+    },
+    {
+        "english": "It's impossible"
+    },
+    {
+        "english": "It's terrible"
+    },
+    {
+        "english": "I feel terrible"
+    },
+    {
+        "english": "It's very popular"
+    },
+    {
+        "english": "It's something is popular,many people like it"
+    },
+    {
+        "english": "Sichuan food is very popular around the world"
+    },
+    {
+        "english": "She is very popular in her company"
+    },
+    {
+        "english": "It's incredible"
+    },
+    {
+        "english": "It's better than nothing"
+    },
+    {
+        "english": "It won't take much time"
+    },
+    {
+        "english": "Boss , can I talk to you for a second? "
+    },
+    {
+        "english": "It won't take much time"
+    },
+    {
+        "english": "It's a deal"
+    },
+    {
+        "english": "It's not a big deal"
+    },
+    {
+        "english": "10"
+    },
+    {
+        "english": "Think nothing of it"
+    },
+    {
+        "english": "It doesn't make any sense"
+    },
+    {
+        "english": "You talk sense"
+    },
+    {
+        "english": "That's nonsense"
+    },
+    {
+        "english": "You are the boss"
+    },
+    {
+        "english": "What do we do next?"
+    },
+    {
+        "english": "You are the boss"
+    },
+    {
+        "english": "Forget it"
+    },
+    {
+        "english": "I still owe you ten yuan"
+    },
+    {
+        "english": "forget it"
+    },
+    {
+        "english": "I owe you one"
+    },
+    {
+        "english": "You owe me the coffee"
+    },
+    {
+        "english": "You owe me"
+    },
+    {
+        "english": "You owe me nothing"
+    },
+    {
+        "english": "Don't get me wrong"
+    },
+    {
+        "english": "Leave it to me"
+    },
+    {
+        "english": "I'm behind the times"
+    },
+    {
+        "english": "This milk has gone bad"
+    },
+    {
+        "english": ".. has gone bad 某个食品已经坏了"
+    },
+    {
+        "english": "This egg has gone bad"
+    },
+    {
+        "english": "Keep the change"
+    },
+    {
+        "english": "I need some small change"
+    },
+    {
+        "english": "Do you have some small change"
+    },
+    {
+        "english": "Don't ask for trouble"
+    },
+    {
+        "english": "I don't want to trouble you"
+    },
+    {
+        "english": "Do you need a  ride?"
+    },
+    {
+        "english": "Thanks. But i don't want to trouble you"
+    },
+    {
+        "english": "Can you give me a ride?"
+    },
+    {
+        "english": "He is a trouble-maker"
+    },
+    {
+        "english": "You asked for it"
+    },
+    {
+        "english": "See? I told you"
+    },
+    {
+        "english": "Now there's nothing i can do"
+    },
+    {
+        "english": "Hold your horse"
+    },
+    {
+        "english": "Caim down"
+    },
+    {
+        "english": "Think twice"
+    },
+    {
+        "english": "You should think twice about it"
+    },
+    {
+        "english": "I want to have  a walk"
+    },
+    {
+        "english": "I'm just looking"
+    },
+    {
+        "english": "I'm just saying"
+    },
+    {
+        "english": "I'm just asking"
+    },
+    {
+        "english": "Are you free tomorrow?"
+    },
+    {
+        "english": "I think i am.  What's the matter?"
+    },
+    {
+        "english": "I'm just asking"
+    },
+    {
+        "english": "11"
+    },
+    {
+        "english": "No comment"
+    },
+    {
+        "english": "What do you think of your boss"
+    },
+    {
+        "english": "Hands off"
+    },
+    {
+        "english": "Hands off. It's very hot"
+    },
+    {
+        "english": "Anything else?"
+    },
+    {
+        "english": "One glass of milk and a ham sandwich, anything else?"
+    },
+    {
+        "english": "Who else?"
+    },
+    {
+        "english": "You invited me. Who else did you invite?"
+    },
+    {
+        "english": "You bought some fruits, what else did you buy?"
+    },
+    {
+        "english": "Good job"
+    },
+    {
+        "english": "Got it?"
+    },
+    {
+        "english": "I don't want to talk about it! You got it?"
+    },
+    {
+        "english": "I got it"
+    },
+    {
+        "english": "I quit it"
+    },
+    {
+        "english": "If you don't give me a pay rise! I quit"
+    },
+    {
+        "english": "This group is boring i quit"
+    },
+    {
+        "english": "My treat"
+    },
+    {
+        "english": "Your treat"
+    },
+    {
+        "english": "My treat this time, you treat next time"
+    },
+    {
+        "english": "Never mind"
+    },
+    {
+        "english": "No way"
+    },
+    {
+        "english": "Can i borrow your new cellphone?"
+    },
+    {
+        "english": "No way"
+    },
+    {
+        "english": "So what?"
+    },
+    {
+        "english": "His parents are very rich?"
+    },
+    {
+        "english": "So what?"
+    },
+    {
+        "english": "Why not?"
+    },
+    {
+        "english": "Do you want to have a walk outside?"
+    },
+    {
+        "english": "Why not?"
+    },
+    {
+        "english": "You wish"
+    },
+    {
+        "english": "Can i not go to work tomorrow?"
+    },
+    {
+        "english": "You wish!"
+    },
+    {
+        "english": "He wishes!"
+    },
+    {
+        "english": "That's impressive! It means: its hard to forget"
+    },
+    {
+        "english": "How did i do?"
+    },
+    {
+        "english": "impressive"
+    },
+    {
+        "english": "12"
+    },
+    {
+        "english": "Don't push me"
+    },
+    {
+        "english": "Don't push your luck"
+    },
+    {
+        "english": "Easy does it"
+    },
+    {
+        "english": "Fragile: easy to break"
+    },
+    {
+        "english": "Do you have a fragile heart?"
+    },
+    {
+        "english": "Fragile items inside"
+    },
+    {
+        "english": "Is that so?"
+    },
+    {
+        "english": "Sorry I'm late. I couldn't get a taxi"
+    },
+    {
+        "english": "Is that so?"
+    },
+    {
+        "english": "I can't get a taxi"
+    },
+    {
+        "english": "Let it be!"
+    },
+    {
+        "english": "Do you want to fix it?"
+    },
+    {
+        "english": "Let it be? We are moving out"
+    },
+    {
+        "english": "Do you want to repair it?"
+    },
+    {
+        "english": "Right over there"
+    },
+    {
+        "english": "Have you seen my passport?"
+    },
+    {
+        "english": "Have you seen + something / somebody"
+    },
+    {
+        "english": "Take a seat"
+    },
+    {
+        "english": "That's really something"
+    },
+    {
+        "english": "He learned English well by himself"
+    },
+    {
+        "english": "Let's go shopping"
+    },
+    {
+        "english": "I don't want to go out"
+    },
+    {
+        "english": "Okay. i will go by myself"
+    },
+    {
+        "english": "I often see a movie by myself"
+    },
+    {
+        "english": "Whatever you say"
+    },
+    {
+        "english": "Have a good time"
+    },
+    {
+        "english": "I'm going to thailand next week for my holiday"
+    },
+    {
+        "english": "Have a good time"
+    },
+    {
+        "english": "I didn't  mean it"
+    },
+    {
+        "english": "I don't think so"
+    },
+    {
+        "english": "To be honest.."
+    },
+    {
+        "english": "To be honest, you should lose some weight"
+    },
+    {
+        "english": "I'll be right there"
+    },
+    {
+        "english": "Everyone is  waiting for you"
+    },
+    {
+        "english": "I'll be right there"
+    },
+    {
+        "english": "Are you listening?"
+    },
+    {
+        "english": "I'm all ears"
+    },
+    {
+        "english": "Are you reading?"
+    },
+    {
+        "english": "Wait a moment! It won't be long"
+    },
+    {
+        "english": "Over my dead body!"
+    }
+]

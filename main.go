@@ -36,17 +36,32 @@ func main() {
 		input := ""
 		fmt.Scan(&input)
 		fmt.Printf("you input %s\n", input)
+		bf := bufio.NewReader(os.Stdin)
 		if input == "1" {
-			bf := bufio.NewReader(os.Stdin)
 			for {
 				line, _, _ := bf.ReadLine()
+				if len(line) == 0 {
+					continue
+				}
 				if string(line) == "q" {
 					break
 				}
 				ss = append(ss, Sentents{English: string(line)})
 				continue
 			}
-
+		}
+		if input == "2" {
+			for i := range ss {
+				fmt.Println(ss[i].English)
+				line, _, _ := bf.ReadLine()
+				if string(line) == "c" {
+					continue
+				}
+				if string(line) == "q" {
+					break
+				}
+				ss[i].Chinese = string(line)
+			}
 		}
 		// var chinese, english, comment string
 		var chinese string
